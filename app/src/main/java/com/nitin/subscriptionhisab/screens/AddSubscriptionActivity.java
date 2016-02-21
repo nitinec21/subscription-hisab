@@ -16,9 +16,11 @@ public class AddSubscriptionActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_addsubscription);
-
         setupAppBar();
+        initComponents();
     }
+
+
 
     private void setupAppBar() {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
@@ -33,5 +35,9 @@ public class AddSubscriptionActivity extends BaseActivity {
     @Override
     protected void onResume() {
         super.onResume();
+    }
+
+    private void initComponents() {
+
     }
 }
