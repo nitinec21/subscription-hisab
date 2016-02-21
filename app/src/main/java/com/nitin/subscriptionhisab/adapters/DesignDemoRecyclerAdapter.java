@@ -1,4 +1,4 @@
-package com.nitin.subscriptionhisab.screens;
+package com.nitin.subscriptionhisab.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -9,6 +9,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.nitin.subscriptionhisab.R;
+import com.nitin.subscriptionhisab.screens.SecondActivity;
 
 import java.util.List;
 

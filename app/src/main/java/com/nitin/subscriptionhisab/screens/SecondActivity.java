@@ -10,7 +10,7 @@ import android.view.MenuItem;
 import com.nitin.subscriptionhisab.R;
 
 
-public class SecondActivity extends AppCompatActivity {
+public class SecondActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
