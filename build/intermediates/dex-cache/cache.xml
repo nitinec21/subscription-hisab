@@ -2,95 +2,18 @@
 <items version="2" >
 
     <item
-        jar="E:\Studio_workspace\subscription-hisab\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jar="/Users/nitin/AndroidStudioProjects/subscription-hisab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="E:\Studio_workspace\subscription-hisab\app\build\intermediates\pre-dexed\debug\classes-f867758da760f8f607cc65457463ec26c643b6ff.jar" />
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/nitin/AndroidStudioProjects/subscription-hisab/app/build/intermediates/pre-dexed/debug/classes-49d50ff655d95396912b0c2810b4a1381fe09537.jar" />
     </item>
     <item
-        jar="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jar="/Users/nitin/AndroidStudioProjects/subscription-hisab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
-        <dex dex="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\pre-dexed\debug\classes-a30288394c54f7c591e519afc0154b2456f7bd1f.jar" />
-    </item>
-    <item
-        jar="E:\Studio_workspace\subscription-hisab\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="E:\Studio_workspace\subscription-hisab\app\build\intermediates\pre-dexed\debug\classes-3e45394c22332dcf5b366648b9ab7b2909272fbf.jar" />
-    </item>
-    <item
-        jar="E:\Studio_workspace\subscription-hisab\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="E:\Studio_workspace\subscription-hisab\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-b558af641d0fd09323c392d119f3d7ed625171a5.jar" />
-    </item>
-    <item
-        jar="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-75e6fa0c2c50789f6b820fd15da979fae738157e.jar" />
-    </item>
-    <item
-        jar="E:\Studio_workspace\subscription-hisab\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
-        <dex dex="E:\Studio_workspace\subscription-hisab\app\build\intermediates\pre-dexed\debug\classes-6942c3452f07b95be054bb8888c1b21f9bfdc64c.jar" />
-    </item>
-    <item
-        jar="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\pre-dexed\debug\classes-d756a06b5e6acf4187dab9712317ac6c9b24d819.jar" />
-    </item>
-    <item
-        jar="E:\Studio_workspace\subscription-hisab\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="E:\Studio_workspace\subscription-hisab\app\build\intermediates\pre-dexed\debug\classes-9f3cda81209b9bdbeec9d99294c5acc05f230ba7.jar" />
-    </item>
-    <item
-        jar="E:\Studio_workspace\subscription-hisab\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
-        <dex dex="E:\Studio_workspace\subscription-hisab\app\build\intermediates\pre-dexed\debug\classes-a05886bf158d132c2233cc864ea7565f72bba0fc.jar" />
-    </item>
-    <item
-        jar="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
-        <dex dex="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\pre-dexed\debug\classes-d91090fb8766b0c7850ef91eb02a3f1948ef55ce.jar" />
-    </item>
-    <item
-        jar="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\pre-dexed\debug\classes-5fed88e8d1d2ce8e2f3122a484d6518ecc1283ec.jar" />
-    </item>
-    <item
-        jar="C:\Users\Vuclip\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-a0795aef5997efb52a3d098c11cef6517daf7813.jar" />
-    </item>
-    <item
-        jar="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="E:\Studio_workspace\SubscriptionHisab\app\build\intermediates\pre-dexed\debug\classes-93d7cbc0ec7bef491141fc814b0074b3f75f34ca.jar" />
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/nitin/AndroidStudioProjects/subscription-hisab/app/build/intermediates/pre-dexed/debug/classes-945e87925c806308ae37c9d18675f824883602b3.jar" />
     </item>
 
 </items>

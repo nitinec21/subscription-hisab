@@ -13,4 +13,14 @@
     <string name="title_activity_second">SecondActivity</string>
     <string name="default_text">Please tap on + icon on the bottom to add some subscription</string>
     <string name="add_subscription">Add Subscription</string>
+     <string name="subscription_name">Subscription Name</string>
+    <string name="monthly_amount">Monthly Amount</string>
+    <string name="per_subscription_amt">Per Subscription amount</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="instruction">Select subscription type: </string>
+
+    <string-array name="once_twice">
+        <item>Once a day</item>
+        <item>Twice a day</item>
+    </string-array>
 </resources>
